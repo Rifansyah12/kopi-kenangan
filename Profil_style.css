@@ -1,0 +1,13 @@
+h2 {
+    color: #bd0303; /* Warna teks */
+    text-align: center; /* Posisi teks di tengah */
+    font-size: 24px; /* Ukuran teks */
+    margin-top: 20px; /* Jarak atas */
+}
+body{
+    height: 100vh;
+    background-image: url('606296.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
